@@ -1,2 +1,5 @@
 # practica_github
-Aleajandro
+DANIEL
+matias
+Karina
+alejandro
